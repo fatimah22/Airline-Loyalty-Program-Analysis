@@ -60,10 +60,11 @@ Instead of treating all campaign-period growth as success, the analysis supports
 This project focuses on analytical storytelling in Power BI, showing how customer and campaign data can be translated into decision-ready insights.
 
 ---
-
 ## About the Analyst
 
-Fatimah Bin Awdhah is a Data Analyst focused on Power BI, SQL, DAX, and business reporting across different industries.
+Hi, I'm **Fatimah Bin Awdhah**, a Data Analyst with engineering background. 
+I specialize in SQL, DAX, Power BI dashboards, data cleaning, and turning business data into clear, actionable insights.
 
-- Portfolio: [fatimah-data-portfolio.netlify.app](https://fatimah-data-portfolio.netlify.app/)
-- LinkedIn: [linkedin.com/in/fatimah-alawdhah-0a4a8a186](https://www.linkedin.com/in/fatimah-alawdhah-0a4a8a186/)
+- 🌐 Portfolio: [fatimah-data-portfolio.netlify.app](https://fatimah-data-portfolio.netlify.app/)
+- 💼 LinkedIn: [linkedin.com/in/fatimah-alodah](https://www.linkedin.com/in/fatimah-alodah)
+- 📧 Contact: feel free to connect with me on LinkedIn
